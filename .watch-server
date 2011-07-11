@@ -1,0 +1,3 @@
+ftp_user: 'myuser'
+ftp_pass: 'mypass'
+ftp_server: 'ftp.myserver.com'
